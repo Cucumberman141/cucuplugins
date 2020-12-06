@@ -23,9 +23,9 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-version = "1.0.7"
+version = "1.0.8"
 
-project.extra["PluginName"] = "mf porker"
+project.extra["PluginName"] = "Cucumber Master Farmer"
 project.extra["PluginDescription"] = "robs from the MF"
 
 dependencies {
