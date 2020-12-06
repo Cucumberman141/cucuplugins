@@ -26,10 +26,10 @@
 version = "1.0.6"
 
 project.extra["PluginName"] = "mf porker"
-project.extra["PluginDescription"] = "Automatically makes Molten Glass"
+project.extra["PluginDescription"] = "robs from the MF"
 
 dependencies {
-    compileOnly(group = "com.openosrs.externals", name = "iutils", version = "2.3.1+");
+    compileOnly(group = "com.openosrs.externals", name = "iutils", version = "2.3.1+")
     compileOnly(group = "com.owain.externals", name = "chinbreakhandler", version = "+")
 
 }
