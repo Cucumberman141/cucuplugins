@@ -23,7 +23,7 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-version = "1.0.6"
+version = "1.0.7"
 
 project.extra["PluginName"] = "mf porker"
 project.extra["PluginDescription"] = "robs from the MF"
